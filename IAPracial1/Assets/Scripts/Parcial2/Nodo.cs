@@ -5,10 +5,11 @@ using UnityEngine;
 public class Nodo : MonoBehaviour
 {
     public List<Nodo> nodosVecinos = new List<Nodo>();
+    public int cost = 1;
 
     void Start()
     {
-        Parcial2Manager.instance.nodos.Add(this);
+        
     }
 
     // Update is called once per frame
@@ -16,4 +17,6 @@ public class Nodo : MonoBehaviour
     {
         
     }
+
+
 }

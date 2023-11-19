@@ -11,8 +11,6 @@ public class Jugador : MonoBehaviour
     {
         
     }
-
-    // Update is called once per frame
     void Update()
     {
         float h = Input.GetAxisRaw("Horizontal");

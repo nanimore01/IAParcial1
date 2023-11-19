@@ -371,9 +371,15 @@
 "Assets/Scripts/Parcial 1/Patrol.cs"
 "Assets/Scripts/Parcial 1/SpawnerFood.cs"
 "Assets/Scripts/Parcial2/Guardia.cs"
+"Assets/Scripts/Parcial2/GuardiaAlerted.cs"
+"Assets/Scripts/Parcial2/GuardiaBackToPatrol.cs"
+"Assets/Scripts/Parcial2/GuardiaChase.cs"
+"Assets/Scripts/Parcial2/GuardiaLostView.cs"
+"Assets/Scripts/Parcial2/GuardiaPatrol.cs"
 "Assets/Scripts/Parcial2/Jugador.cs"
 "Assets/Scripts/Parcial2/Nodo.cs"
 "Assets/Scripts/Parcial2/Parcial2Manager.cs"
+"Assets/Scripts/Parcial2/PriorityQueue.cs"
 -langversion:9.0
 
 /deterministic
